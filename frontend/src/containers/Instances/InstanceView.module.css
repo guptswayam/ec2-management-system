@@ -1,0 +1,14 @@
+.my_address{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.my_address p{
+    font-size: 20px;
+}
+
+.address_buttons{
+    display: flex;
+    justify-content: space-between;
+}
